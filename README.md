@@ -1,4 +1,4 @@
-# Cardiac_Map
+# Cardiac Map
 
 ### Goal: 
 Understand the patterning of cardiac progenitors.
