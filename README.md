@@ -1,4 +1,4 @@
-# CardiacCells_Characterisation
+# Cardiac_Map
 
 ### Goal: 
 Understand the patterning of cardiac progenitors.
