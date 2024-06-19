@@ -1,4 +1,4 @@
-# Cardiac map
+# Cardiac epithelium map
 ![fig1 scMorphometrics](https://github.com/ClaraGCH/CardiacMap/assets/75646913/2b815d09-3e92-43c5-8b9b-e4ec8f5de962)
 ### Goal: 
 Understand the patterning of cardiac progenitors.
