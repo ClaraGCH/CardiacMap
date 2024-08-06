@@ -1,4 +1,4 @@
-Each excel file is an wild-type E9.5 embryo containing all the cells within the DPW. In the files each row is a cell and each columns is a measurement. 
+Each excel file represents a wild-type E9.5 embryo containing all the cells within the DPW. In the files each row is a cell and each columns is a measurement. 
 The measurements have been obtained from:
 - Tissue analyser :  https://github.com/baigouy/tissue_analyzer/tree/main (Aigouy et al. 2016)
 - Force inference : https://data.mendeley.com/datasets/78ng4tmj75/4 (Kong et al.2019)
