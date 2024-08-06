@@ -3,8 +3,8 @@
 ### Pipeline:
 ![fig1 scMorphometrics Pipeline (2)](https://github.com/user-attachments/assets/6951fcb8-b677-4888-80c1-f5e33ed7e2b1)
 
-- Step 1: Perform Whole mount immunofluorescence of the Dorsal pericardial wall (the cardiac epithelium) with phalloidin to label the cell membranes and any other interesting protein.
-- Step 2: Segmentat the images using Tissue Analyser (TA) as described by Aigouy et al.2016.
+- Step 1: Perform Whole mount immunofluorescence on the Dorsal pericardial wall (the cardiac epithelium) using phalloidin to label the cell membranes and other proteins of interest.
+- Step 2: Segment the images using Tissue Analyser (TA) as described by Aigouy et al.2016.
 - Step 3: Quantification of features using TA, Force inference (Kong et al. 2019) and Dproj (Herbert et al. 2021).
 - Step 4: Store,clean and merge the data to prepare it for machine learning algorithms.
 - Step 5: Analyze the data.
