@@ -17,6 +17,8 @@ T-box transcription genes (Tbx1 and Tbx5) play a key role in regulating the addi
 1. Employed unsupervised clustering algorythms to map the cells according to their morphological features.
 2. Applied supervised classification algorythms to predict whether a cell will express Tbx5 gene.
 
+   The data used for the analysis is stored in the Data folder. The unsupervised and supervised analysis is found in the heart_dashboard.
+
 ### Final dashboard version: 
 https://www.behance.net/gallery/196792557/Cardiac-map-web-dasboard
 
