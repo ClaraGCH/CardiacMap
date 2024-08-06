@@ -2,6 +2,11 @@
 
 ### Pipeline:
 ![fig1 scMorphometrics pipeline](https://github.com/user-attachments/assets/3851c863-c9bf-4e12-899a-5fd1bd18b3ae)
+Step 1: Whole mount immunofluorescence of the Dorsal pericardial wall (the cardiac epithelium) with phalloidin to label the cell membranes and any other interesting protein.
+Step 2: Segmentation using Tissue Analyser (TA) (Aigouy et al.2016)
+Step 3: Quantification of features using TA, Force inference and Dproj
+Step 4: Store,clean and merge the data ready to pass Machine learning algorithms.
+Step 5: Data analysis
 
 ### Goal: 
 Understand the patterning of cardiac progenitors.The embryonic heart grows by the progressive addition of progenitor cells located on an epithelial layer known as the Dorsal pericardial wall (DPW).
