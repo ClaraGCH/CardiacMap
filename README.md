@@ -1,4 +1,4 @@
-# Cardiac epithelium map
+# The cardiac epithelium map
 ![fig1 scMorphometrics pipeline](https://github.com/user-attachments/assets/3851c863-c9bf-4e12-899a-5fd1bd18b3ae)
 
 ### Goal: 
