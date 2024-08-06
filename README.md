@@ -7,7 +7,7 @@
 - Step 2: Segment the images using Tissue Analyser (TA) as described by Aigouy et al.2016.
 - Step 3: Quantification of features using TA, Force inference (Kong et al. 2019) and Dproj (Herbert et al. 2021).
 - Step 4: Store,clean and merge the data to prepare it for machine learning algorithms.
-- Step 5: Analyze the data.
+- Step 5: Analyze the data and create an interactive dashboard.
 
 ### Goal: 
 Understand the patterning of cardiac progenitors.The embryonic heart grows by the progressive addition of progenitor cells located on an epithelial layer known as the Dorsal pericardial wall (DPW).
