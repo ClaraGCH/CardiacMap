@@ -19,7 +19,7 @@ T-box transcription genes (Tbx1 and Tbx5) play a key role in regulating the addi
 
    The data used for the analysis is stored in the Data folder. The unsupervised and supervised analysis is found in the heart_dashboard.py
 
-### Final [dashboard] version:
+### Final dashboard version:
 [dashboard](https://www.behance.net/gallery/196792557/Cardiac-map-web-dasboard)
 
 
