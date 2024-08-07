@@ -9,7 +9,7 @@ T-box transcription genes (Tbx1 and Tbx5) play a key role in regulating the addi
 2. Applied supervised classification algorythms to predict whether a cell will express Tbx5 gene.
 3. Applied supervised image classification algorithms to predict whether an embryo will be healthy (wild-type) or mutant.
 
-   The data used for the analysis is stored in the Data folder. The unsupervised and supervised analysis is found in the heart_dashboard.py
+   The data used for the analysis is stored in the Data folder. The unsupervised and supervised analysis (1 and 2) are found in the heart_dashboard.py
 
 ### Data analysis problems:
 
