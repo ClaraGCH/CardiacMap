@@ -15,7 +15,7 @@ T-box transcription genes (Tbx1 and Tbx5) play a key role in regulating the addi
 The data used for the analysis is stored in the Data folder. The unsupervised and supervised analysis (1 and 2) are found in the heart_dashboard.py
 
 ### Pipeline:
-![The pipeline](https://github.com/user-attachments/assets/20f031c9-66e4-4a11-92c8-47c0b3aeef93)
+![the pipeline v2](https://github.com/user-attachments/assets/a7473423-c70c-4baf-a1d2-b6ca9d2746dc)
 - Step 1: Perform Whole mount immunofluorescence on the Dorsal pericardial wall (the cardiac epithelium) using phalloidin to label the cell membranes and other proteins of interest.
 - Step 2: Segment the images using [Tissue Analyser](https://github.com/baigouy/tissue_analyzer) (TA) as described by Aigouy et al.2016.
 - Step 3: Quantification of features using TA, [Force inference](https://data.mendeley.com/datasets/78ng4tmj75/4) (Kong et al. 2019) and [Dproj](https://gitlab.pasteur.fr/iah-public/DeProj) (Herbert et al. 2021).
