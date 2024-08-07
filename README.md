@@ -9,13 +9,13 @@ T-box transcription genes (Tbx1 and Tbx5) play a key role in regulating the addi
 2. Applied supervised classification algorythms to predict whether a cell will express Tbx5 gene.
 3. Applied supervised image classification algorithms to predict whether an embryo will be healthy (wild-type) or mutant.
 
-   The data used for the analysis is stored in the Data folder. The unsupervised and supervised analysis (1 and 2) are found in the heart_dashboard.py
+The data used for the analysis is stored in the Data folder. The unsupervised and supervised analysis (1 and 2) are found in the heart_dashboard.py
 
-### Data analysis problems:
+### Data analysis questions:
+![The data anylisis problems](https://github.com/user-attachments/assets/d5806204-9538-40f2-a3aa-39ccdb47bf6f)
 
 ### Pipeline:
-![fig1 scMorphometrics Pipeline (2)](https://github.com/user-attachments/assets/6951fcb8-b677-4888-80c1-f5e33ed7e2b1)
-
+![The pipeline](https://github.com/user-attachments/assets/20f031c9-66e4-4a11-92c8-47c0b3aeef93)
 - Step 1: Perform Whole mount immunofluorescence on the Dorsal pericardial wall (the cardiac epithelium) using phalloidin to label the cell membranes and other proteins of interest.
 - Step 2: Segment the images using [Tissue Analyser](https://github.com/baigouy/tissue_analyzer) (TA) as described by Aigouy et al.2016.
 - Step 3: Quantification of features using TA, [Force inference](https://data.mendeley.com/datasets/78ng4tmj75/4) (Kong et al. 2019) and [Dproj](https://gitlab.pasteur.fr/iah-public/DeProj) (Herbert et al. 2021).
