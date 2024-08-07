@@ -4,15 +4,15 @@
 Understand the patterning of cardiac progenitors.The embryonic heart grows by the progressive addition of progenitor cells located on an epithelial layer known as the Dorsal pericardial wall (DPW).
 T-box transcription genes (Tbx1 and Tbx5) play a key role in regulating the addition of the cells to the poles of the heart. However, the mechanisms by which the cells contribute to each pole remain unclear.
 
+### Data analysis questions:
+![The data anylisis problems](https://github.com/user-attachments/assets/d5806204-9538-40f2-a3aa-39ccdb47bf6f)
+
 ### To investigate this, we have:
 1. Employed unsupervised clustering algorythms to map the cells according to their morphological features.
 2. Applied supervised classification algorythms to predict whether a cell will express Tbx5 gene.
 3. Applied supervised image classification algorithms to predict whether an embryo will be healthy (wild-type) or mutant.
 
 The data used for the analysis is stored in the Data folder. The unsupervised and supervised analysis (1 and 2) are found in the heart_dashboard.py
-
-### Data analysis questions:
-![The data anylisis problems](https://github.com/user-attachments/assets/d5806204-9538-40f2-a3aa-39ccdb47bf6f)
 
 ### Pipeline:
 ![The pipeline](https://github.com/user-attachments/assets/20f031c9-66e4-4a11-92c8-47c0b3aeef93)
